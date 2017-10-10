@@ -1,10 +1,10 @@
-# Project1
+# Unmute
 
 Music Artists App
 
 ```
 ### Do once
-git clone &lt;Project 1 URL&gt;
+git clone &lt;Unmute URL&gt;
 sudo npm i -g http-server
 
 ### When you want to start it
